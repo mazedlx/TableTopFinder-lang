@@ -1,0 +1,14 @@
+{
+    "name": "jerodev/tabletopfinder-lang",
+    "description": "Contains the translation files for https://www.tabletopfinder.eu",
+    "authors": [
+        {
+            "name": "Jeroen Deviaene",
+            "email": "jeroen@deviaene.eu"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "phpunit/phpunit": "^7.3"
+    }
+}
