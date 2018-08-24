@@ -14,6 +14,10 @@ return [
         'viewmore' => 'view more :object',
     ],
 
+    'messages' => [
+        'changesSaved' => 'The modifications have been saved'
+    ],
+
     'age' => 'age',
     'artist' => 'artist|artists',
     'boardgame' => 'board game|board games',

@@ -3,7 +3,9 @@
 return [
     'messages' => [
         'aboutSubscription' => 'Subscribe to price changes for this board game',
+        'accountActivated' => '<strong>Your account has been activated!</strong><br />You will now be able to login and use all the website features.',
         'accountCreated' => '<strong>Your account has been successfuly created!</strong><br />In a few moments you will receive an e-mail with an activation link for your account.',
+        'accountNotActivated' => 'Your account has not yet been activated.<br />Check your mailbox for the activation mail.',
         'createAccount' => 'Create an account',
         'invalidCredentials' => 'Invalid credentials',
         'profilesaved' => 'Your profile has been saved',
