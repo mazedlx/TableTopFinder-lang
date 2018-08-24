@@ -36,6 +36,7 @@ return [
     'price' => 'price|prices',
     'publisher' => 'publisher|publishers',
     'remove' => 'remove',
+    'reset' => 'reset',
     'save' => 'save',
     'search' => 'search',
     'send' => 'send',
