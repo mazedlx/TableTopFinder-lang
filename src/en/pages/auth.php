@@ -15,6 +15,7 @@ return [
         'passwordResetInfo' => 'You can enter a new password for your account in these fields. The password will be updated and you will be able to login with this new password.',
         'passwordResetSent' => '<strong>Success!</strong><br />A password reset link has been sent to your mailbox.',
         'profilesaved' => 'Your profile has been saved',
+        'settingsSaved' => 'Your settings have been saved',
         'subscriptionCreated' => 'The subscription was successfuly created.<br />This can be modified on your profile page.',
         'subscriptionInfo' => 'When the price for this game in the selected country falls below this value, you will receive a notification.',
         'subscriptionRemove' => 'The subscription has been removed',
@@ -29,14 +30,17 @@ return [
     ],
 
     'accountinfo' => 'account information',
+    'emailnotifications' => 'e-mail notifications',
     'gamegroups' => 'board game groups',
     'lists' => 'boardgame lists',
     'login' => 'login',
     'loginregister' => 'Login / Create account',
     'logout' => 'logout',
     'maxprice' => 'max price',
+    'newsletter' => 'monthly newsletter',
     'profile' => 'profile',
     'register' => 'register',
     'settings' => 'account settings',
-    'subscriptions' => 'subscriptions'
+    'subscriptions' => 'subscriptions',
+    'subscriptionupdates' => 'subscription updates'
 ];
