@@ -21,6 +21,7 @@ return [
     'age' => 'age',
     'artist' => 'artist|artists',
     'boardgame' => 'board game|board games',
+    'browse' => 'browse',
     'by' => 'by',
     'category' => 'category|categories',
     'close' => 'close',
