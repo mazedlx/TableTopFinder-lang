@@ -1,4 +1,4 @@
-# TableTopFinder Lang Files [![Build Status](https://travis-ci.org/jerodev/teamleader-coding-test.svg?branch=master)](https://travis-ci.org/jerodev/teamleader-coding-test)
+# TableTopFinder Language Files [![Build Status](https://travis-ci.org/jerodev/teamleader-coding-test.svg?branch=master)](https://travis-ci.org/jerodev/teamleader-coding-test)
 This repository contains the translation files for [tabletopfinder.eu](https://www.tabletopfinder.eu/).
 
 Consider adding your own language to the repository to browse the website in your own language and help us to expand the website.
@@ -33,7 +33,7 @@ This is the current list of languages we are hoping to support:
 | - | - | - |
 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/4x3/gb.svg" height="16" /> English | en | <pre>\|====================\| 100%</pre> |
 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/4x3/nl.svg" height="16" /> Dutch   | nl | <pre>\|==================  \|  95%</pre> |
-| <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/4x3/fr.svg" height="16" /> French  | fr | <pre>\|                    \|   0%</pre> |
+| <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/4x3/fr.svg" height="16" /> French  | fr | <pre>\|================    \|  81%</pre> |
 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/4x3/de.svg" height="16" /> German  | de | <pre>\|                    \|   0%</pre> |
 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/4x3/es.svg" height="16" /> Spanish | es | <pre>\|                    \|   0%</pre> |
 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/4x3/it.svg" height="16" /> Italian | it | <pre>\|                    \|   0%</pre> |
