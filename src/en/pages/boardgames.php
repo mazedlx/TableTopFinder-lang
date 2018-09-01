@@ -3,11 +3,10 @@
 return [
     'titles' => [
         'detail' => 'The best prices today for :game',
-        'expansionsfor' => 'Expansions for :game',
+        'expansionfor' => 'Expansion for :game|Expansions for :game',
         'pricetable' => 'Online stores'
     ],
 
-    'expansion_for' => 'expansion for',
     'hidedeliverycosts' => 'hide delivery costs',
     'more_stores' => 'Display more stores',
     'released' => 'released',

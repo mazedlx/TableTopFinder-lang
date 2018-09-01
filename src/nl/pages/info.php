@@ -53,16 +53,14 @@ return [
     ],
 
     'links' => [
-        'title' => 'Board game links',
+        'title' => 'Gezelschapsspellen links',
 
         'categories' => [
-            'associations' => 'Associations',
-            'communities' => 'Communities',
+            'associations' => 'Verenigingen',
+            'communities' => 'Fora',
         ],
 
-        'descriptions' => [
-            'boardgamegeek' => 'BoardGameGeek is the biggest board game community in the world. It was created in 2000 by Scott Alden and Derk Solko.'
-        ]
+        'descriptions' => []
     ]
 
 ];

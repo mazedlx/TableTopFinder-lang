@@ -3,11 +3,10 @@
 return [
     'titles' => [
         'detail' => 'De beste prijzen op vandaag voor :game',
-        'expansionsfor' => 'Uitbereidingen voor :game',
+        'expansionfor' => 'Uitbreiding voor :game|Uitbreidingen voor :game',
         'pricetable' => 'Webwinkels'
     ],
 
-    'expansion_for' => 'uitbereiding voor',
     'hidedeliverycosts' => 'leveringskosten verbergen',
     'more_stores' => 'Meer winkels weergeven',
     'released' => 'uitgebracht',

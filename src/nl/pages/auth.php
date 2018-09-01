@@ -24,7 +24,7 @@ return [
 
     'registerfeatures' => [
         'events' => 'Zoeken naar gezelschapsspellen evenementen en beurzen bij jou in de buurt',
-        'lists' => 'Maak spellenlijsten aan om te delen met vrienden',
+        'lists' => 'Maak spellen lijsten aan om te delen met vrienden',
         'more' => 'Meer functionaliteiten zijn in aantocht',
         'notifications' => 'Ontvang meldingen wanneer een spel onder een bepaalde prijs zakt'
     ],

@@ -15,7 +15,8 @@ return [
     ],
 
     'messages' => [
-        'changesSaved' => 'De aanpassingen zijn opgeslagen'
+        'changesSaved' => 'De aanpassingen zijn opgeslagen',
+        'postedOn' => 'Geplaatst op'
     ],
 
     'age' => 'leeftijd',
@@ -30,6 +31,7 @@ return [
     'discount' => 'korting|kortingen',
     'delivery' => 'levering|leveringen',
     'expansion' => 'uitbereiding|uitbereidingen',
+    'free' => 'gratis',
     'language' => 'taal|talen',
     'news' => 'nieuws',
     'person' => 'persoon|personen',
@@ -42,6 +44,7 @@ return [
     'search' => 'zoeken',
     'send' => 'versturen',
     'slogan' => 'De grootste Europese gezelschapsspellen database',
+    'source' => 'bron',
     'store' => 'winkel|winkels',
     'time' => 'tijd',
     'total' => 'totaal|totalen',

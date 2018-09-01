@@ -15,7 +15,8 @@ return [
     ],
 
     'messages' => [
-        'changesSaved' => 'The modifications have been saved'
+        'changesSaved' => 'The modifications have been saved',
+        'postedOn' => 'Posted on'
     ],
 
     'age' => 'age',
@@ -30,6 +31,7 @@ return [
     'discount' => 'discount|discounts',
     'delivery' => 'delivery|deliveries',
     'expansion' => 'expansion|expansions',
+    'free' => 'free',
     'language' => 'language|languages',
     'news' => 'news',
     'person' => 'person|persons',
@@ -42,6 +44,7 @@ return [
     'search' => 'search',
     'send' => 'send',
     'slogan' => 'The biggest European board game database',
+    'source' => 'source',
     'store' => 'store|stores',
     'time' => 'time',
     'total' => 'total|totals',
