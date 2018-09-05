@@ -2,10 +2,13 @@
 
 return [
     'messages' => [
+        'aboutGameLists' => 'Voeg dit spel toe aan een van je spellen lijsten',
         'aboutSubscription' => 'Abonneren op prijsveranderingen voor dit spel',
         'accountActivated' => '<strong>Je account is nu geactiveerd!</strong><br />Nu kan je inloggen en genieten van alle functionaliteiten op de website.',
         'accountCreated' => '<strong>Je account is aangemaakt!</strong><br />Binnen enkele ogenblikken zal je een e-mail ontvangen met de activatielink voor je account.',
         'accountNotActivated' => 'Je account is nog niet geactiveerd.<br />Controleer je mailbox voor je activatielink.',
+        'addedToList' => 'Dit spel is toegevoegd aan de lijst <a href=":url">:list</a>.',
+        'addToGameList' => 'Toevoegen aan een spellenlijst',
         'createAccount' => 'Maak een account',
         'forgotPassword' => 'Wachtwoord vergeten',
         'forgotPasswordInfo' => 'Vul je e-mail adres hier in en wij zullen je een link sturen waarmee je je wachtwoord opnieuw kan instellen.',

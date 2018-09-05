@@ -9,12 +9,13 @@ return [
     ],
 
     'disclaimer' => [
-        'body' => '
-            <p>The website owner its information providers can not be held responsible for any disruptions or information on the website.</p>
-            <p>The information provided is based on reliable sources and careful analysis. The owner of the website cannot be held responsible for the accuracy, completeness or suitability of the information for any purpose whatsoever</p>
-            <p>The website owner is not responsible for any decision or action made on the basis of the information provided on this website. Nor is he responsible for any errors or omissions or responsible towards the user or third parties for any direct, indirect, incidental damages, lost profits, loss of opportunity or any other damage caused by its negligence or omissions in gathering, compiling, writing , interpreting, reporting and distributing information or data through this service, and it was even if the website owner warned of such damage.</p>
-            <p>The website contains a lot of links to other websites, these links are merely informative and the website owner is not responsible for the contents or the use that could be made of it.</p>
-        '
+        'body' => 'The website owner its information providers can not be held responsible for any disruptions or information on the website.
+
+The information provided is based on reliable sources and careful analysis. The owner of the website cannot be held responsible for the accuracy, completeness or suitability of the information for any purpose whatsoever
+
+The website owner is not responsible for any decision or action made on the basis of the information provided on this website. Nor is he responsible for any errors or omissions or responsible towards the user or third parties for any direct, indirect, incidental damages, lost profits, loss of opportunity or any other damage caused by its negligence or omissions in gathering, compiling, writing , interpreting, reporting and distributing information or data through this service, and it was even if the website owner warned of such damage.
+
+The website contains a lot of links to other websites, these links are merely informative and the website owner is not responsible for the contents or the use that could be made of it.'
     ],
 
     'faq' => [

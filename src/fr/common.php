@@ -7,6 +7,7 @@ return [
         'mostpopular' => ':object les plus populaires',
         'newonwebsite' => 'nouveaux :object sur le site',
         'publishedby' => ':object publiés par :publisher',
+        'random' => ':object aléatoire',
         'remove' => 'supprimer :object',
         'search' => 'rechercher des :object',
         'similar' => ':object similaires',

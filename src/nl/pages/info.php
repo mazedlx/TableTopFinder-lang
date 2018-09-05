@@ -9,30 +9,13 @@ return [
     ],
 
     'disclaimer' => [
-        'body' => '
-            <p>De website eigenaar en zijn informatieleveranciers kunnen niet
-            aansprakelijk gesteld worden voor eventuele storingen,
-            onderbrekingen of fouten in de elektronische publicatie van de
-            website en verwante informatiediensten.</p>
-            <p>De verstrekte informatie steunt op betrouwbare bronnen en
-            zorgvuldige analyse. De website eigenaar en zijn
-            informatieaanbieders garanderen dan ook niet de juistheid,
-            volledigheid, geschiktheid van de informatie voor welk gebruik dan
-            ook.</p>
-            <p>De website eigenaar is niet verantwoordelijk voor welke beslissing
-            of handeling dan ook die door de gebruiker zou zijn genomen op basis
-            van de verstrekte informatie of gegevens; noch is hij
-            verantwoordelijk voor fouten of vergissingen of verantwoordelijk tav
-            de gebruiker of derden voor mogelijk geleden directe, indirecte,
-            incidentele schade, winstderving, verlies van opportuniteit of voor
-            eender welke schade veroorzaakt door zijn nalatigheid of
-            vergetelheid in het verschaffen, compileren, monteren, schrijven,
-            interpreteren, melden en verspreiden van info of data dmv deze
-            dienst.</p>
-            <p>Er worden verschillende links gelegd naar andere websites met
-            informatie, deze links zijn evenwel puur informatief en de website
-            eigenaar is niet verantwoordelijk voor de inhoud ervan of het
-            gebruik dat ervan zou kunnen worden gemaakt.</p>'
+        'body' => 'De website eigenaar en zijn informatieleveranciers kunnen niet aansprakelijk gesteld worden voor eventuele storingen, onderbrekingen of fouten in de elektronische publicatie van de website en verwante informatiediensten.
+
+De verstrekte informatie steunt op betrouwbare bronnen en zorgvuldige analyse. De website eigenaar en zijn informatieaanbieders garanderen dan ook niet de juistheid, volledigheid, geschiktheid van de informatie voor welk gebruik dan ook.
+
+De website eigenaar is niet verantwoordelijk voor welke beslissing of handeling dan ook die door de gebruiker zou zijn genomen op basis van de verstrekte informatie of gegevens; noch is hij verantwoordelijk voor fouten of vergissingen of verantwoordelijk tav de gebruiker of derden voor mogelijk geleden directe, indirecte, incidentele schade, winstderving, verlies van opportuniteit of voor eender welke schade veroorzaakt door zijn nalatigheid of dienst.
+
+Er worden verschillende links gelegd naar andere websites met informatie, deze links zijn evenwel puur informatief en de website eigenaar is niet verantwoordelijk voor de inhoud ervan of het gebruik dat ervan zou kunnen worden gemaakt.'
     ],
 
     'faq' => [

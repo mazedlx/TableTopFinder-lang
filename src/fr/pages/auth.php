@@ -2,10 +2,13 @@
 
 return [
     'messages' => [
+        'aboutGameLists' => 'Ajoutez ce jeu à l\'une de vos listes de jeux',
         'aboutSubscription' => 'Abonnez-vous aux changements de prix pour ce jeu',
         'accountActivated' => '<strong>Votre compte est maintenant activé!</strong><br />Vous pouvez maintenant vous connecter et profiter de toutes les fonctionnalités du site.',
         'accountCreated' => '<strong>Votre compte a été créé!</strong><br />Dans quelques instants, vous recevrez un e-mail avec le lien d\'activation pour votre compte.',
         'accountNotActivated' => 'Votre compte n\'est pas encore activé. <br /> Vérifiez votre boîte de courriels pour votre lien d\'activation.',
+        'addedToList' => 'Le jeu a été ajouté à la liste <a href=":url">:list</a>.',
+        'addToGameList' => 'Ajouter à une liste des jeux',
         'createAccount' => 'Créer un compte',
         'forgotPassword' => 'mot de passe oublié',
         'forgotPasswordInfo' => 'Entrez votre adresse e-mail ici et nous vous enverrons un lien avec lequel vous pourrez réinitialiser votre mot de passe.',

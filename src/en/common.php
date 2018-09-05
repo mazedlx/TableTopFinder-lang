@@ -7,6 +7,7 @@ return [
         'mostpopular' => 'most popular :object',
         'newonwebsite' => 'Newest :object on the website',
         'publishedby' => ':object published by :publisher',
+        'random' => 'random :object',
         'remove' => 'remove :object',
         'search' => 'search :object',
         'similar' => 'similar :object',

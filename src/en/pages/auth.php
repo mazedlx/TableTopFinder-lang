@@ -2,10 +2,13 @@
 
 return [
     'messages' => [
+        'aboutGameLists' => 'Add this game to one of your board game lists',
         'aboutSubscription' => 'Subscribe to price changes for this board game',
         'accountActivated' => '<strong>Your account has been activated!</strong><br />You will now be able to login and use all the website features.',
         'accountCreated' => '<strong>Your account has been successfuly created!</strong><br />In a few moments you will receive an e-mail with an activation link for your account.',
         'accountNotActivated' => 'Your account has not yet been activated.<br />Check your mailbox for the activation mail.',
+        'addedToList' => 'The game has been added to the list <a href=":url">:list</a>.',
+        'addToGameList' => 'Add to board game list',
         'createAccount' => 'Create an account',
         'forgotPassword' => 'Forgot password',
         'forgotPasswordInfo' => 'Enter your e-mail address to the left, we will send you a link so you can set a new password to your account.',

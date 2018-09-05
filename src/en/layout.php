@@ -7,7 +7,7 @@ return [
     ],
 
     'footer' => [
-        'text' => '<strong>TableTopFinder</strong> is a project created by Jeroen Deviaene. This website gives you the possibility to find board games that you will like just by searching on a few keywords. And after that, we list the best European prices for these board games online.'
+        'text' => '**TableTopFinder** is a project created by Jeroen Deviaene. This website gives you the possibility to find board games that you will like just by searching on a few keywords. And after that, we list the best European prices for these board games online.'
     ],
 
     'follow' => [

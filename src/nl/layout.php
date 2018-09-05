@@ -7,7 +7,7 @@ return [
     ],
 
     'footer' => [
-        'text' => '<strong>TableTopFinder</strong> is een project opgestart door Jeroen Deviaene. Deze website heeft je de mogelijkheid om gezelschapsspellen terug te vinden aan de hand van enkele kernwoorden. En daarnaast bieden we je ook een lijst aan van online winkels waar je dit spel kan kopen.'
+        'text' => '**TableTopFinder** is een project opgestart door Jeroen Deviaene. Deze website heeft je de mogelijkheid om gezelschapsspellen terug te vinden aan de hand van enkele kernwoorden. En daarnaast bieden we je ook een lijst aan van online winkels waar je dit spel kan kopen.'
     ],
 
     'follow' => [

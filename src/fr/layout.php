@@ -7,7 +7,7 @@ return [
     ],
 
     'footer' => [
-        'text' => '<strong>TableTopFinder</strong> est un projet lancé par Jeroen Deviaene. Ce site vous donne la possibilité de trouver des jeux de société sur la base de quelques mots clés. Et nous vous proposons également une liste de magasins en ligne où vous pouvez acheter ce jeu.'
+        'text' => '**TableTopFinder** est un projet lancé par Jeroen Deviaene. Ce site vous donne la possibilité de trouver des jeux de société sur la base de quelques mots clés. Et nous vous proposons également une liste de magasins en ligne où vous pouvez acheter ce jeu.'
     ],
 
     'follow' => [

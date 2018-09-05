@@ -7,6 +7,7 @@ return [
         'mostpopular' => 'populairste :object',
         'newonwebsite' => 'Nieuwste :object op de website',
         'publishedby' => ':object gepubliceerd door :publisher',
+        'random' => 'willekeurig :object',
         'remove' => ':object verwijderen',
         'search' => ':object zoeken',
         'similar' => 'gelijkaardige :object',
