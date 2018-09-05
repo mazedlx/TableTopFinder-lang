@@ -14,6 +14,17 @@ class PhpSyntaxTest extends TestCase {
 
     }
 
+    /**
+     * @dataProvider languageFileProvider
+     */
+    public function testNoHtmlInTranslations(string $path) {
+
+        $values = new RecursiveIteratorIterator(new RecursiveArrayIterator(require($path)));
+        foreach ($values as $value)
+            $this->assertTrue(strip_tags($value) === $value, "'$value' contains html");
+
+    }
+
     public static function languageFileProvider() {
 
         $iterator = new RecursiveDirectoryIterator("./src/");

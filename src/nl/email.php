@@ -6,7 +6,8 @@ return [
         'intro' => 'Hoi :displayname
 
 Je registratie op Tabletopfinder is bijna compleet. Het enige wat je nog moet doen is op onderstaande link klikken om je account te activeren.',
-        'footer' => 'Veel plezier op de website!<br />Het TableTopFinder team',
+        'footer' => 'Veel plezier op de website!
+Het TableTopFinder team',
         'button' => 'Activeer mijn account',
         'subject' => 'Activeer je TableTopFinder account'
     ],
