@@ -1,4 +1,4 @@
-# TableTopFinder Language Files [![Build Status](https://travis-ci.org/jerodev/teamleader-coding-test.svg?branch=master)](https://travis-ci.org/jerodev/teamleader-coding-test)
+# TableTopFinder Language Files [![Build Status](https://travis-ci.org/jerodev/TableTopFinder-lang.svg?branch=master)](https://travis-ci.org/jerodev/TableTopFinder-lang)
 This repository contains the translation files for [tabletopfinder.eu](https://www.tabletopfinder.eu/).
 
 Consider adding your own language to the repository to browse the website in your own language and help us to expand the website.
