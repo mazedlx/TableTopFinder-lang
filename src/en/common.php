@@ -39,6 +39,7 @@ return [
     'player' => 'player|players',
     'price' => 'price|prices',
     'publisher' => 'publisher|publishers',
+    'readmore' => 'read more',
     'remove' => 'remove',
     'reset' => 'reset',
     'save' => 'save',

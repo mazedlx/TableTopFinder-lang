@@ -39,6 +39,7 @@ return [
     'player' => 'speler|spelers',
     'price' => 'prijs|prijzen',
     'publisher' => 'uitgever|uitgevers',
+    'readmore' => 'meer weergeven',
     'remove' => 'verwijderen',
     'reset' => 'reset',
     'save' => 'opslaan',
