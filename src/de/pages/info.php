@@ -24,13 +24,13 @@ Die Website enthält viele Links zu anderen Websites, diese Links sind lediglich
             'General' => [
                 'Wann werden die Brettspielpreise aktualisiert??' => 'Unsere Server aktualisieren ständig die Preise auf der Website. Aufgrund der großen Anzahl an Geschäften und Brettspielen, die aktualisiert werden müssen, kann es bis zu 72 Stunden dauern, bis ein Preisupdate registriert wird.',
                 'Kann ich ein Brettspiel hinzufügen oder anfordern, das der Seite hinzugefügt werden soll?' => 'Du kannst jedenfalls ein Brettspiel auf der Website hinzufügen, wenn es noch nicht da ist. Benutze bitte [das Kontaktformular](info.contact) um uns mitzuteilen, welches Spiel fehlt.',
-                'Kann ich meine Website / meinen Laden / meine Brettspiel auf dieser Website bewerben?' => 'Wir sind offen für Ihre Werbeanfragen. Du kannst uns für weitere Informationen mit dem [Kontaktformular](info.contact) kontaktieren.'
+                'Kann ich meine Website / meinen Laden / mein Brettspiel auf dieser Website bewerben?' => 'Wir sind offen für deine Werbeanfragen. Du kannst uns für weitere Informationen mit dem [Kontaktformular](info.contact) kontaktieren.'
             ],
             'Brettspiel-Hersteller' => [
                 'Würdet ihr unser Spiel auf eurer Website bewerten?' => 'Sicherlich, wenn du uns eine Kopie / einen Prototyp schicken kannst, damit wir das Spiel ausprobieren können, sind wir gerne bereit eine gute Rezension über das Spiel zu schreiben.'
             ],
             'Shop-Inhaber' => [
-                'Könntet ihr unseren Shop zu eurere Website hinzfügen.' => 'Natürlich, bitte benutze [das Kontaktformular](info.contact) und sende uns einen Link zu deinem Shop und alle anderen Informationen die wir vielleicht benötigen.'
+                'Könntet ihr unseren Shop zu eurer Website hinzfügen.' => 'Natürlich, bitte benutze [das Kontaktformular](info.contact) und sende uns einen Link zu deinem Shop und alle anderen Informationen die wir vielleicht benötigen.'
             ]
         ]
     ],
@@ -44,7 +44,7 @@ Die Website enthält viele Links zu anderen Websites, diese Links sind lediglich
         ],
 
         'descriptions' => [
-            'boardgamegeek' => 'BoardGameGeek ist die größte Brettspiel-Communit der Welt. Von Scott Alden und Derk Solko im Jahr 2000 gegründet.'
+            'boardgamegeek' => 'BoardGameGeek ist die größte Brettspiel-Community der Welt. Von Scott Alden und Derk Solko im Jahr 2000 gegründet.'
         ]
     ]
 

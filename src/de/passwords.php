@@ -14,7 +14,7 @@ return [
  */
 
     'password' => 'Passwörter müssen mindestens 6 Zeichen lang sein. Passwörter müssen gleich sein.',
-    'reset' => 'Dein Passwort wurde zurück gesetzt!',
+    'reset' => 'Dein Passwort wurde zurückgesetzt!',
     'sent' => 'Wir haben dir eine E-Mail mit dem Link zum Zurücksetzen deines Passworts geschickt!',
     'token' => 'Dieser Token ist ungültig.',
     'user' => "Wir können leider keinen User mit dieser E-Mail-Adresse finden.",

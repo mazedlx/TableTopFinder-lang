@@ -45,7 +45,7 @@ return [
     'save' => 'speichern',
     'search' => 'suchen',
     'send' => 'senden',
-    'slogan' => 'Die größte euroäische Brettspiel-Datenbank.',
+    'slogan' => 'Die größte europäische Brettspiel-Datenbank.',
     'source' => 'Quelle',
     'store' => 'Geschäft|Geschäfte',
     'time' => 'Zeit',

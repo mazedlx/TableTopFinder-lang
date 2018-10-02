@@ -3,7 +3,7 @@
 return [
     'cookie' => [
         'button' => 'Okay, lass uns Brettspiele finden!',
-        'text' => 'Diese Website benützt Cookies um deine Einstellungen zu speichern. Damit können wir dir den Inhalt zeigen, der für dich am interessantesten ist..'
+        'text' => 'Diese Website verwendet Cookies um deine Einstellungen zu speichern. Damit können wir dir den Inhalt zeigen, der für dich am interessantesten ist..'
     ],
 
     'footer' => [

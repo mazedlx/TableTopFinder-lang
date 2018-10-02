@@ -9,7 +9,7 @@ return [
 
     'hidedeliverycosts' => 'Lieferkosten ausblenden',
     'more_stores' => 'Zeige mehr Shops an',
-    'released' => 'veröffnetlicht',
-    'stock' => 'Lagerstand|Lagerstände',
+    'released' => 'veröffentlicht',
+    'stock' => 'Lagerbestand|Lagerbestände',
     'visit' => 'Besuch|Besuche'
 ];
